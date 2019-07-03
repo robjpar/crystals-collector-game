@@ -1,7 +1,21 @@
-# crystals-collector-game
+# Crystals Collector
 
-## Description
-The Crystals Collector Game implemented with HTML and JavaScript (jQuery). Styling done with Bootstrap 4 and Fonts Awesome.
+The Crystals Collector is a simple game where the player collects crystals until the total numeric value of the colleted items matches the given value, which is the winning condition.
 
-## How to use
-Access the deployed website though this link [crystals-collector-game](https://robjpar.github.io/crystals-collector-game/). Alternatively, clone the repository to a local folder and open the `index.html` file with a web browser.
+## Technologies & Frameworks
+
+- HTML
+- Bootstrap
+- JavaScript, jQuery
+
+## Installation
+
+No installation is needed. Access the deployed website with a web browser through this link [crystals-collector-game](https://robjpar.github.io/crystals-collector-game/).
+
+## Usage
+
+Follow the on-screen instructions.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
