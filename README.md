@@ -1,5 +1,7 @@
 # Crystals Collector
 
+![crystals-collector](images/crystals-collector-game.png 'Crystals Collector')
+
 The Crystals Collector is a simple game where the player collects crystals until the total numeric value of the colleted items matches the given value, which is the winning condition.
 
 ## Technologies & Frameworks
