@@ -4,7 +4,7 @@
 
 The Crystals Collector is a simple game where the player collects crystals until the total numeric value of the colleted items matches the given value, which is the winning condition.
 
-## Technologies & Frameworks
+## Technologies
 
 - HTML
 - Bootstrap
